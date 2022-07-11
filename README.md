@@ -1,6 +1,8 @@
 # AmbienteAngular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.4.
+Introdução ao ambiente Angular promovido pelo bootcamp Santander FullStack Developer, nele vemos a arquitetura de componentes, instalação e preparação do ambiente Angular, exploração das Diretivas, inplementação de Serviços e Injeção de Dependências.
+
+Esse projeto foi feito com [Angular CLI](https://github.com/angular/angular-cli) version 14.0.4.
 
 ## Development server
 
